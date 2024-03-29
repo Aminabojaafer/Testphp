@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -111,7 +110,7 @@
 <div class="main-div">
 <div class="img-head-div1" >
     <p>&nbsp;</p>
-    <p><strong>+966504265634 <img src="img/whatsapp.png" alt="واتساب" width="20" height="20"> تواصل معنا</strong></p>
+    <p><strong>+966504265634 <img src="whatsapp.png" alt="واتساب" width="20" height="20"> تواصل معنا</strong></p>
 </div>
   <div class="img-head-div2" ><img width="610" height="100" lang="center"  src="img/01.png"  alt=""/><strong></strong>
   
@@ -120,7 +119,7 @@
     <div class="list1">
     <h5>الرحلات السياحية ⎮ كروز الخليج ⎮ حجوزات الفنادق ⎮ متجر الهدايا</h5>
     </div>
-<div class="sub-div"> <img src="img/02.jpg" width="499" height="350"  alt=""/>
+<div class="sub-div"> <img src="02.jpg" width="499" height="350"  alt=""/>
   <blockquote>
     <blockquote>
       <blockquote>
